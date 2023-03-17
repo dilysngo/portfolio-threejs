@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
+  <!-- ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
+  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only) -->
 
   <h1>Three.js 3D Portfolio</h1>
   
@@ -12,34 +12,34 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
+  <a href="https://github.com/dilysngo/portfolio-threejs/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/ladunjexa/Threejs_3D_Portfolio" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/ladunjexa/Threejs_3D_Portfolio" alt="last update" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/network/members">
+  <a href="https://github.com/dilysngo/portfolio-threejs/network/members">
     <img src="https://img.shields.io/github/forks/ladunjexa/Threejs_3D_Portfolio" alt="forks" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/stargazers">
+  <a href="https://github.com/dilysngo/portfolio-threejs/stargazers">
     <img src="https://img.shields.io/github/stars/ladunjexa/Threejs_3D_Portfolio" alt="stars" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">
+  <a href="https://github.com/dilysngo/portfolio-threejs/issues/">
     <img src="https://img.shields.io/github/issues/ladunjexa/Threejs_3D_Portfolio" alt="open issues" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/master/LICENSE">
+  <a href="https://github.com/dilysngo/portfolio-threejs/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/ladunjexa/Threejs_3D_Portfolio.svg" alt="license" />
   </a>
 </p>
    
  <h4>
-    <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
+    <a href="threejs-3d.netlify.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
+    <a href="https://github.com/dilysngo/portfolio-threejs">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
+    <a href="https://github.com/dilysngo/portfolio-threejs/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
+    <a href="https://github.com/dilysngo/portfolio-threejs/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -54,16 +54,24 @@
 
 </summary>
 
-- [About the Project](#star2-about-the-project)
-  * [Folder Structure](#bangbang-folder-structure)
-  * [Tech Stack](#space_invader-tech-stack)
-- [Getting Started](#toolbox-getting-started)
-  * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:star2: About the Project](#star2-about-the-project)
+    - [:bangbang: Folder Structure](#bangbang-folder-structure)
+    - [:space\_invader: Tech Stack](#space_invader-tech-stack)
+  - [:toolbox: Getting Started](#toolbox-getting-started)
+    - [:gear: Installation](#gear-installation)
+      - [Step 1:](#step-1)
+      - [Step 2:](#step-2)
+      - [Step 3:](#step-3)
+      - [Step 4:](#step-4)
+      - [Step 5:](#step-5)
+    - [:running: Run Locally](#running-run-locally)
+      - [Step 1:](#step-1-1)
+      - [Step 2:](#step-2-1)
+  - [:wave: Contributing](#wave-contributing)
+  - [:warning: License](#warning-license)
+  - [:handshake: Contact](#handshake-contact)
+  - [:gem: Acknowledgements](#gem-acknowledgements)
 
 </details>  
 
@@ -118,7 +126,7 @@ Threejs_3D_Portfolio/
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio
+ https://github.com/dilysngo/portfolio-threejs
 ```
 
 #### Step 2:
@@ -177,7 +185,7 @@ At the main folder execute the following command in console to run the developme
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
+<a href="https://github.com/dilysngo/portfolio-threejs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
 </a>
 
@@ -202,16 +210,16 @@ Don't forget to give the project a star! Thanks again!
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/dilysngo/portfolio-threejs/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
+Dilys Ngo - [@dilysngo](https://www.linkedin.com/in/dilysngo) - [@dilysngo](https://t.me/dilysngo)
 
-Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
+Project Link: [https://github.com/dilysngo/portfolio-threejs](https://github.com/dilysngo/portfolio-threejs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,5 +237,5 @@ This section used to mention useful resources and libraries that used in 3D Port
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="center">
-<img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
+<img src="https://github.com/dilysngo/portfolio-threejs/blob/main/public/logo.png" height="auto" width="10%" />
 </p>
