@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="threejs-3d.netlify.app">View Demo</a>
+    <a href="https://threejs-3d.netlify.app">View Demo</a>
   <span> · </span>
     <a href="https://github.com/dilysngo/portfolio-threejs">Documentation</a>
   <span> · </span>
